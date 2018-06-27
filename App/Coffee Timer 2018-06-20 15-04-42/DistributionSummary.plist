@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Coffee Timer.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>AD0D45DD04FABE45EA6096B64190D2CFDD21D93B</string>
+				<key>dateExpires</key>
+				<string>6/18/19</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>W5MH2XPH84.com.ashfurrow.Coffee-Timer</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>W5MH2XPH84</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>W5MH2XPH84.com.ashfurrow.Coffee-Timer</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Coffee Timer.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e9ed1ade-af11-4c9a-95ed-ea42603ebbd4</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>W5MH2XPH84</string>
+				<key>name</key>
+				<string>Katalon Inc</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

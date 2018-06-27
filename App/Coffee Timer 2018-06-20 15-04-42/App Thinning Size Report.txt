@@ -1,0 +1,8 @@
+
+App Thinning Size Report for All Variants of Coffee Timer
+
+Variant: Coffee Timer-iPad Pro (9.7-inch).ipa
+Supported devices: iPad Pro (9.7-inch)
+App + On Demand Resources size: 108 KB compressed, 203 KB uncompressed
+App size: 108 KB compressed, 203 KB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>variants</key>
+	<dict>
+		<key>Coffee Timer-iPad Pro (9.7-inch).ipa</key>
+		<dict>
+			<key>limitUncompressedInitialPrefetchedODR</key>
+			<integer>2147483648</integer>
+			<key>onDemandResourcesAssetPacks</key>
+			<dict/>
+			<key>sizeCompressedApp</key>
+			<integer>108019</integer>
+			<key>sizeCompressedAppAndODR</key>
+			<integer>108019</integer>
+			<key>sizeCompressedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedApp</key>
+			<integer>203045</integer>
+			<key>sizeUncompressedAppAndODR</key>
+			<integer>203045</integer>
+			<key>sizeUncompressedInitialPrefetchedODR</key>
+			<integer>0</integer>
+			<key>sizeUncompressedInitialPrefetchedODRExceedsLimit</key>
+			<false/>
+			<key>sizeUncompressedODR</key>
+			<integer>0</integer>
+			<key>tagsUncompressedInitialPrefetchedODR</key>
+			<array/>
+			<key>variantIds</key>
+			<array>
+				<string>iPad6,3</string>
+				<string>iPad6,4</string>
+			</array>
+			<key>variantNames</key>
+			<array>
+				<string>iPad Pro (9.7-inch)</string>
+				<string>iPad Pro (9.7-inch)</string>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>
