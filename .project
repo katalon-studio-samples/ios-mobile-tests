@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>%Users%trongbui%katalon%sources%katalon-studio-samples%ios-mobile-tests%ios-mobile-tests.prj</name>
+	<name>%Users%trongbui%katalon%sources%katalon-studio-samples%ios-mobile-tests%ios-mobile-tests-with-katalon-studio.prj</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -17,7 +17,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1529755578201</id>
+			<id>0</id>
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -26,7 +26,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1529755578223</id>
+			<id>0</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
