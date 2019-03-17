@@ -68,6 +68,7 @@
 		5EA5D74F1736AADF00E729CA /* CoffeeTimer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoffeeTimer.xcdatamodel; sourceTree = "<group>"; };
 		5EA5D7511736AD1500E729CA /* CTRTimerModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CTRTimerModel.h; sourceTree = "<group>"; };
 		5EA5D7521736AD1500E729CA /* CTRTimerModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CTRTimerModel.m; sourceTree = "<group>"; };
+		8317226D223E0B3400F98387 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/MainStoryboard.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -209,11 +210,6 @@
 				CLASSPREFIX = CTR;
 				LastUpgradeCheck = 0940;
 				ORGANIZATIONNAME = "Ash Furrow";
-				TargetAttributes = {
-					5E964D7316F4DD080074FB6A = {
-						DevelopmentTeam = W5MH2XPH84;
-					};
-				};
 			};
 			buildConfigurationList = 5E964D6F16F4DD080074FB6A /* Build configuration list for PBXProject "Coffee Timer" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -287,6 +283,7 @@
 			children = (
 				5EA5D6DA17348D7A00E729CA /* Base */,
 				5EA5D6DB17348E3800E729CA /* fr */,
+				8317226D223E0B3400F98387 /* en */,
 			);
 			name = MainStoryboard.storyboard;
 			sourceTree = "<group>";
@@ -399,14 +396,14 @@
 		5E964D9816F4DD090074FB6A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = W5MH2XPH84;
+				DEVELOPMENT_TEAM = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Coffee Timer/Coffee Timer-Prefix.pch";
 				INFOPLIST_FILE = "Coffee Timer/Coffee Timer-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ashfurrow.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = 2;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -414,14 +411,14 @@
 		5E964D9916F4DD090074FB6A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = W5MH2XPH84;
+				DEVELOPMENT_TEAM = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Coffee Timer/Coffee Timer-Prefix.pch";
 				INFOPLIST_FILE = "Coffee Timer/Coffee Timer-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ashfurrow.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = 2;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
