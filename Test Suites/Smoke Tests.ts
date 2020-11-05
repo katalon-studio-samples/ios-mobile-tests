@@ -4,12 +4,12 @@
    <name>Smoke Tests</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-06-27T15:57:21</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>748008ba-a996-4389-b95e-9e16e42d61db</testSuiteGuid>
    <testCaseLink>
       <guid>4cfd9246-e3f7-450d-bcd0-ea51eb13469d</guid>
