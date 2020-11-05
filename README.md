@@ -28,6 +28,7 @@ These instructions will get you a copy of the project up and running on your loc
   + Open **App/Your-First-iOS-App/Coffee Timer/Coffee Timer.xcodeproj** file by Xcode tool
   + Select a device to launch the apps
   + Set deployment iOS version and device type
+  ![Build ipa apps](https://github.com/katalon-studio-samples/ios-mobile-tests/blob/master/Tutorials/Figures/build%20.ipa%20file.png?raw=true)
   + Build the apps by clicking Product -> Build. Wait for some time until the build progress is finished
   + Export the apps by clicking Product -> Archive then follow the instruction to have "Coffee Time.ipa" file
 ### Setting Up
