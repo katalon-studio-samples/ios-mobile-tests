@@ -24,7 +24,12 @@ These instructions will get you a copy of the project up and running on your loc
 - [Katalon Studio](https://www.katalon.com/) - [Installation and Setup](https://docs.katalon.com/x/HwAM)
 - [Xcode](https://developer.apple.com/xcode/)
 - [Setup environment](https://docs.katalon.com/display/KD/Mobile+on+macOS)
-- Build iOS app at **App/Your-First-iOS-App** to have .ipa file (Ex: App/Coffee Timer 2018-06-20 15-04-42/) 
+- Build iOS app at **App/Your-First-iOS-App** to have .ipa file as following steps:
+  + Open **App/Your-First-iOS-App/Coffee Timer/Coffee Timer.xcodeproj** file by Xcode tool
+  + Select a device to launch the apps
+  + Set deployment iOS version and device type
+  + Build the apps by clicking Product -> Build. Wait for some time until the build progress is finished
+  + Export the apps by clicking Product -> Archive then follow the instruction to have "Coffee Time.ipa" file
 ### Setting Up
 - [Check out](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) the code from this repository
 - [Open the project](https://docs.katalon.com//display/KD/Manage+Test+Project) from Katalon Studio
