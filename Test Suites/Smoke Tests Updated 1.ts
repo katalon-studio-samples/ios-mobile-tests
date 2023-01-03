@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Smoke Tests Updated</name>
+   <name>Smoke Tests Updated 1</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -15,7 +15,7 @@
       <guid>4cfd9246-e3f7-450d-bcd0-ea51eb13469d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Verify the main list</testCaseId>
+      <testCaseId>Test Cases/Verify the main list updated</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

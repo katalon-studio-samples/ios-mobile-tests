@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteCollectionEntity>
    <description></description>
-   <name>Test Suite Collection</name>
+   <name>Test Suite Collection Update 2</name>
    <tag></tag>
    <delayBetweenInstances>0</delayBetweenInstances>
    <executionMode>SEQUENTIAL</executionMode>
@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Smoke Tests Updated</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Smoke Tests Updated 1</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
