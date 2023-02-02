@@ -22,8 +22,8 @@ import internal.GlobalVariable
 
 public class Common {
 	@Keyword
-	def startAppliucation() {
-		String appPath = RunConfiguration.getProjectDir() + '/App/Coffee Timer.ipa'
+	def startApplication() {
+		String appPath = RunConfiguration.getProjectDir() + GlobalVariable.G_AppPath
 		Mobile.startApplication(appPath, false)
 	}
 }
