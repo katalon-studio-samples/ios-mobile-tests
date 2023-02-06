@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Smoke Tests</name>
+   <name>Smoke Tests for Coffee Timer App on iPad</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -9,18 +9,20 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>748008ba-a996-4389-b95e-9e16e42d61db</testSuiteGuid>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>66af626f-f477-4523-946a-c2cf1831b4af</testSuiteGuid>
    <testCaseLink>
-      <guid>4cfd9246-e3f7-450d-bcd0-ea51eb13469d</guid>
+      <guid>a60755df-3b82-4509-8cc1-6eb9e8744c09</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Verify the main list</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b6d935b6-c142-4d24-99b2-39a0b3d454bc</guid>
+      <guid>6e7b97c1-75ac-42b6-a09f-d9a857a36eea</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Mexican Coffee Timer</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
