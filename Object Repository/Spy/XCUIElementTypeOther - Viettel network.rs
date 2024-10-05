@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<WebElementEntity>
+<MobileElementEntity>
    <description></description>
    <name>XCUIElementTypeOther - Viettel network</name>
    <tag></tag>
@@ -76,4 +76,5 @@
       <type>Main</type>
       <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[3]/XCUIElementTypeStatusBar[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]</value>
    </webElementProperties>
-</WebElementEntity>
+   <platform>IOS</platform>
+</MobileElementEntity>

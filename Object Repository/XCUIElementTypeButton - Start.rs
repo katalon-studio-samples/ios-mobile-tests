@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<WebElementEntity>
+<MobileElementEntity>
    <description></description>
    <name>XCUIElementTypeButton - Start</name>
    <tag></tag>
@@ -76,4 +76,5 @@
       <type>Main</type>
       <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeButton[1]</value>
    </webElementProperties>
-</WebElementEntity>
+   <platform>IOS</platform>
+</MobileElementEntity>
