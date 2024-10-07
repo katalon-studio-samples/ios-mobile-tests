@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<WebElementEntity>
+<MobileElementEntity>
    <description></description>
    <name>XCUIElementTypeStaticText - Coffees</name>
    <tag></tag>
@@ -83,4 +83,5 @@
       <type>Main</type>
       <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeTable[1]/XCUIElementTypeOther[1]/XCUIElementTypeStaticText[1]</value>
    </webElementProperties>
-</WebElementEntity>
+   <platform>IOS</platform>
+</MobileElementEntity>

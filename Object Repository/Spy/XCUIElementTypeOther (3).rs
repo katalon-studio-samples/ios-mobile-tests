@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<WebElementEntity>
+<MobileElementEntity>
    <description></description>
    <name>XCUIElementTypeOther (3)</name>
    <tag></tag>
@@ -62,4 +62,5 @@
       <type>Main</type>
       <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeTable[1]/XCUIElementTypeCell[2]/XCUIElementTypeOther[1]</value>
    </webElementProperties>
-</WebElementEntity>
+   <platform>IOS</platform>
+</MobileElementEntity>
